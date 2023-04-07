@@ -4,3 +4,9 @@
 [submodule "Y1-S2/CS102"]
 	path = Y1-S2/CS102
 	url = https://github.com/berkegokmen1/CS102
+[submodule "Y1-S2/CS102-Project"]
+	path = Y1-S2/CS102-Project
+	url = https://github.com/Muria1/Cornichon
+[submodule "Y2-S1/CS201"]
+	path = Y2-S1/CS201
+	url = https://github.com/berkegokmen1/CS201
